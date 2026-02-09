@@ -62,5 +62,5 @@ git clone https://github.com/ianeesahmad/simple-animated-portfolio.git
 
 <hr>
 <p align="center">
-Developed with ❤️ by Debugging Human 
+Developed with ❤️ by Belek Tazhibaev
 </p>
